@@ -694,3 +694,8 @@ s in Computer Science
 - Place: Granada, Spain
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
+
+#### Name: [Chris Strusz](https://github.com/struszc)
+- Place: Carbondale, Il, US
+- Bio: A high school teacher, trying to git it.
+- GitHub: [Chris Strusz] (https://github.com/struszc)
