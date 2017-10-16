@@ -698,4 +698,4 @@ s in Computer Science
 #### Name: [Chris Strusz](https://github.com/struszc)
 - Place: Carbondale, Il, US
 - Bio: A high school teacher, trying to git it.
-- GitHub: [Chris Strusz] (https://github.com/struszc)
+- GitHub: [Chris Strusz] (https://github.com/struszc) 
